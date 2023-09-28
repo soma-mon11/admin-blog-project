@@ -42,6 +42,8 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 * [CoreUI Free Laravel Admin Template](https://github.com/coreui/coreui-free-laravel-admin-template)
 * [CoreUI Free Vue.js + Laravel Admin Template](https://github.com/coreui/coreui-free-vue-laravel-admin-template)
 
+* for running this project you have to insatll node version 16 ,in the new version it may not work properly
+
 ## CoreUI Pro
 
 **Only customers with [Enterpise Membership Plan](https://coreui.io/pro/#buy) have access to private github CoreUI Pro repository.**
@@ -65,7 +67,7 @@ $ git clone https://github.com/coreui/coreui-free-react-admin-template.git my-pr
 $ cd my-project
 
 # install app's dependencies
-$ npm install
+$ npm install 
 ```
 
 ### Copy and Paste
